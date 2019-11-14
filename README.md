@@ -7,6 +7,7 @@
 先导入库
 
     from functools import reduce
+    import numpy as np
     import matplotlib.pyplot as ply
     %matplotlib inline
 
